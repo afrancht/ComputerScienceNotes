@@ -1,5 +1,5 @@
 # ComputerScienceNotes
-Just my notes so that fellow computer scientists can also learn from them.
+Just @manuel114 and my notes so that fellow computer scientists can also learn from them.
 
 ## Disclosure
 Year 1 notes have not been thoroughly revised thus there might be some small mistakes. Year 2 notes have been thoroughly revised.
@@ -7,6 +7,4 @@ Year 1 notes have not been thoroughly revised thus there might be some small mis
 These notes have help me obtain a **first** in all examinations. 
 
 ## Help me out!
-If you found them useful please nominate me for an Award at King's! It would make me very happy!!
-
-Please follow the link to do so: https://internal.kcl.ac.uk/NMS/stu/prize/index2.aspx
+I'm trying to build a company called Privasee. Just check it out at www.privasee.co.uk!! Also tweet (@a_lextweets) or email (franchtapia@gmail.com) me that you're using these!!
