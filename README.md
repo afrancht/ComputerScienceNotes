@@ -1,3 +1,9 @@
+# We're Hiring!
+
+Hello Alex here! Manu and I now run a start up called Privasee. If you're looking for experience and/or are interested in the project drop us an email: contact@privasee.co.uk
+
+Good luck with Exams!!
+
 # ComputerScienceNotes
 Just @manuel114 and my notes so that fellow computer scientists can also learn from them.
 
